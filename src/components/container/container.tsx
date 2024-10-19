@@ -63,7 +63,7 @@ export function Container({
         </h1>
         <div className="relative">
           <button
-            className="text-white hover:text-[#606368] transition-colors pr-2 "
+            className="text-white transition-colors pr-2 "
             onClick={() => setMenuOpen(!isMenuOpen)}
           >
             <EllipsisVertical size={17} />
