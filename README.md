@@ -1,6 +1,6 @@
 ## TaskFlow
 
-TaskFlow is a simple Kanban board that allows you to drag and drop tasks between columns. It is built using:
+Task Flow is a modern task manager that allows users to easily drag and drop tasks, providing a seamless and intuitive workflow management experience. It is built using:
 
 - React
 - DnD-Kit
