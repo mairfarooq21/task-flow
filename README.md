@@ -1,4 +1,4 @@
-## TaskFlow - A Kanban Board for Drag and Drop
+## TaskFlow
 
 TaskFlow is a simple Kanban board that allows you to drag and drop tasks between columns. It is built using:
 
@@ -8,7 +8,7 @@ TaskFlow is a simple Kanban board that allows you to drag and drop tasks between
 - Tailwind CSS
 - Framer-Motion
 
-## 👾 Features
+## Features
 
 - Drag and drop containers.
 - Delete containers and items.
@@ -17,7 +17,7 @@ TaskFlow is a simple Kanban board that allows you to drag and drop tasks between
 - Add containers and items (both are draggable).
 - Indication of which container you are editing items in.
 
-## 🚦 Running the Project
+## Running the Project
 
 To run the project in your local environment, follow these steps:
 
