@@ -3,10 +3,9 @@
 Task Flow is a modern task manager that allows users to easily drag and drop tasks, providing a seamless and intuitive workflow management experience. It is built using:
 
 - React
-- DnD-Kit
-- TypeScript
 - Tailwind CSS
 - Framer-Motion
+- DnD-Kit
 
 ## Features
 
