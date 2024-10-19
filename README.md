@@ -1,6 +1,6 @@
-## FlowTrack - A Kanban Board for Drag and Drop
+## TaskFlow - A Kanban Board for Drag and Drop
 
-FlowTrack is a simple Kanban board that allows you to drag and drop tasks between columns. It is built using:
+TaskFlow is a simple Kanban board that allows you to drag and drop tasks between columns. It is built using:
 
 - React
 - DnD-Kit
