@@ -7,7 +7,6 @@ TaskFlow is a simple Kanban board that allows you to drag and drop tasks between
 - TypeScript
 - Tailwind CSS
 - Framer-Motion
-- Lucide Icons (for the icons)
 
 ## 👾 Features
 
@@ -17,18 +16,6 @@ TaskFlow is a simple Kanban board that allows you to drag and drop tasks between
 - Drag and drop items between containers.
 - Add containers and items (both are draggable).
 - Indication of which container you are editing items in.
-
-## 📒 Process
-
-I started by implementing the functionality for creating containers. Next, I added the ability to drag and drop containers. Afterwards, I focused on the capability to create items inside containers and further, to drag and drop them. 
-
-Then I styled the board, drawing inspiration from modern Kanban boards like Jira, Trello, and Notion based on my experience. 
-
-Subsequently, I added functionalities for deleting items and containers. I then implemented the ability to edit the names of containers and items. Lastly, I added an indication of which container you are editing items in. Afterward, I performed some small refactoring and styling touch-ups. 
-
-Some features were added in between the main features development. Everything is saved in local storage. The user can come back, and everything will still be there.
-
-**NOTE:** The project's purpose is to demonstrate the use of DnD-Kit and TypeScript. It is not meant to be a full-fledged Kanban board.
 
 ## 🚦 Running the Project
 
