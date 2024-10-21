@@ -248,7 +248,7 @@ export default function App() {
       </Modal>
       <div className="flex items-center justify-between gap-y-2">
         <h1 className="text-xl md:text-3xl font-bold">
-          Task Flow
+          Task Floww
         </h1>
         <Button
           onClick={() => setShowAddContainerModal(true)}
